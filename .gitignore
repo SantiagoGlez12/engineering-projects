@@ -1,0 +1,17 @@
+# Generated and local files
+.DS_Store
+__MACOSX/
+db/
+incremental_db/
+output_files/
+*.rpt
+*.summary
+*.sof
+*.pof
+*.qws
+Debug/
+Release/
+.metadata/
+*.obj
+*.out
+*.map

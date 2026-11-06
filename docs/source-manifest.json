@@ -1,0 +1,75 @@
+{
+  "source": "Documentos GIT / original Drive ZIP archives",
+  "files": [
+    {
+      "archive": "ProyectoDD.zip",
+      "original_path": "ProyectoDD/Contador.qpf",
+      "path": "digital-design/decimal-counter/Contador.qpf",
+      "size": 1274,
+      "git_blob_sha": "4eccb608cd59c8d63337011a2faed778088396b1"
+    },
+    {
+      "archive": "ProyectoDD.zip",
+      "original_path": "ProyectoDD/Contador.qsf",
+      "path": "digital-design/decimal-counter/Contador.qsf",
+      "size": 2573,
+      "git_blob_sha": "417462039cb0249ec5f796d8f2cf58db853c749f"
+    },
+    {
+      "archive": "ProyectoDD.zip",
+      "original_path": "ProyectoDD/Contador.vhd",
+      "path": "digital-design/decimal-counter/Contador.vhd",
+      "size": 1743,
+      "git_blob_sha": "92886bd4f3168c15f01f398f44e59c16291f235a"
+    },
+    {
+      "archive": "Practica2.zip",
+      "original_path": "Practica2/W1_P02/P02_A/.ccsproject",
+      "path": "embedded-systems/tm4c-gpio/.ccsproject",
+      "size": 614,
+      "git_blob_sha": "6927d16945ee8016fd7cb3836487e94678197241"
+    },
+    {
+      "archive": "Practica2.zip",
+      "original_path": "Practica2/W1_P02/P02_A/.cproject",
+      "path": "embedded-systems/tm4c-gpio/.cproject",
+      "size": 24649,
+      "git_blob_sha": "15f2306eba37b094ef1816173598501d8f9143d4"
+    },
+    {
+      "archive": "Practica2.zip",
+      "original_path": "Practica2/W1_P02/P02_A/.project",
+      "path": "embedded-systems/tm4c-gpio/.project",
+      "size": 835,
+      "git_blob_sha": "020d02c26543d9955162762744c9d8221253327c"
+    },
+    {
+      "archive": "Practica2.zip",
+      "original_path": "Practica2/W1_P02/P02_A/main.c",
+      "path": "embedded-systems/tm4c-gpio/main.c",
+      "size": 800,
+      "git_blob_sha": "b01230c3cdc91d005564e0d8b20815206778154f"
+    },
+    {
+      "archive": "Practica2.zip",
+      "original_path": "Practica2/W1_P02/P02_A/targetConfigs/Tiva TM4C1290NCPDT.ccxml",
+      "path": "embedded-systems/tm4c-gpio/targetConfigs/Tiva TM4C1290NCPDT.ccxml",
+      "size": 1087,
+      "git_blob_sha": "5c1f567833f5e7e83b0cfb99f7170cb486a1507a"
+    },
+    {
+      "archive": "Practica2.zip",
+      "original_path": "Practica2/W1_P02/P02_A/tm4c1290ncpdt.cmd",
+      "path": "embedded-systems/tm4c-gpio/tm4c1290ncpdt.cmd",
+      "size": 1529,
+      "git_blob_sha": "6f4fe3db7fc251614c4606db19e3af00ff6a5408"
+    },
+    {
+      "archive": "Practica2.zip",
+      "original_path": "Practica2/W1_P02/P02_A/tm4c1290ncpdt_startup_ccs.c",
+      "path": "embedded-systems/tm4c-gpio/tm4c1290ncpdt_startup_ccs.c",
+      "size": 13103,
+      "git_blob_sha": "ba49f31498f33e0ad30942df295874b1d067768f"
+    }
+  ]
+}
